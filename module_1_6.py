@@ -1,5 +1,5 @@
 # Init
-my_string = input('Выедите произвольную строку: ')
+my_string = input('Введите произвольную строку: ')
 
 # Code
 print('Строка в верхнем регистре:', my_string.upper())
