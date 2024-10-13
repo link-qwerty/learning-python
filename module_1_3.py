@@ -1,9 +1,7 @@
-# Init
+# Init and code
 name="Тимофей Бондаренко"
-age=42
-
-# Code
 print("Name:",name)
+age=42
 print("Age:",age)
 print("New age:",age+2)
 is_student=True
