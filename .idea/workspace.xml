@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 1, ex 1">
-      <change afterPath="$PROJECT_DIR$/module_1_4.py" afterDir="false" />
+    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 1, ex 2">
+      <change afterPath="$PROJECT_DIR$/module_1_4v.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
   "keyToString": {
     "Python.module_1_3.executor": "Run",
     "Python.module_1_4.executor": "Run",
+    "Python.module_1_4v.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -101,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728798696723</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added exr from module 1, ex 2">
+      <option name="closed" value="true" />
+      <created>1728800521418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728800521418</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added old lessons" />
     <MESSAGE value="Added exr from module 1, ex 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 1, ex 1" />
+    <MESSAGE value="Added exr from module 1, ex 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 1, ex 2" />
   </component>
 </project>
