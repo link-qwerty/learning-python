@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 1, ex 2 (varian)">
-      <change afterPath="$PROJECT_DIR$/module_1_5.py" afterDir="false" />
+    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 1, ex 3">
+      <change afterPath="$PROJECT_DIR$/module_1_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Python.module_1_4.executor": "Run",
     "Python.module_1_4v.executor": "Run",
     "Python.module_1_5.executor": "Run",
+    "Python.module_1_6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -119,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728801049659</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added exr from module 1, ex 3">
+      <option name="closed" value="true" />
+      <created>1728802756815</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728802756815</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +147,7 @@
     <MESSAGE value="Added exr from module 1, ex 1" />
     <MESSAGE value="Added exr from module 1, ex 2" />
     <MESSAGE value="Added exr from module 1, ex 2 (varian)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 1, ex 2 (varian)" />
+    <MESSAGE value="Added exr from module 1, ex 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 1, ex 3" />
   </component>
 </project>
