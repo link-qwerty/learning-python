@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 1, ex 4">
-      <change beforePath="$PROJECT_DIR$/module_1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,21 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "link-qwerty"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;link-qwerty&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/link-qwerty/learning-python",
+    "url": "https://github.com/link-qwerty/learning-python.git",
     "accountId": "0408776c-ec4e-47a6-b3ce-1b5e32da8a1f"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2nMwcvFtyeLcnXwtQH1NlFzdC9x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,6 +46,7 @@
     "Python.module_1_4v.executor": "Run",
     "Python.module_1_5.executor": "Run",
     "Python.module_1_6.executor": "Run",
+    "Python.module_1_7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -143,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728808012479</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added exr from module 1, ex 4">
+      <option name="closed" value="true" />
+      <created>1728808056714</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728808056714</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
