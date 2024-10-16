@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 1, ex 5">
-      <change afterPath="$PROJECT_DIR$/module_1_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 1, ex 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728993189052</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added exr from module 1, ex 5">
+      <option name="closed" value="true" />
+      <created>1729044525684</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729044525684</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
