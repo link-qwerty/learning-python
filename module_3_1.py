@@ -17,6 +17,7 @@ def is_contains(string, list_to_search):
 
 calls = 0
 
+# Code
 print(string_info('Marie Delacroix'))
 print(string_info('Von Braun'))
 print(is_contains('Abyrvalg', ['aByrvalg', 'GlavRyba', 'empty']))

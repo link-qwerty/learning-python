@@ -32,6 +32,5 @@ def print_password(number, pairs):
 list_numbers = random.sample(range(3, 21), 18) # random numbers
 
 # Code
-#print(list_numbers)
 for number in list_numbers:
     print_password(number, find_pairs(number))
