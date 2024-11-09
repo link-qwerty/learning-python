@@ -7,6 +7,12 @@ def get_multiplied_digits(number):
     else:
         return first
 
-# Code
-print(get_multiplied_digits(40203))
+def factorial(n):
+    if n > 1:
+        return n * factorial(n-1)
+    else:
+        return n
 
+# Code
+print(f'Перемножение элементов числа 40203: {get_multiplied_digits(40203)}')
+print(f'Факториал 10: {factorial(10)}')
