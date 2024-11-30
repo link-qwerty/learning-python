@@ -132,7 +132,7 @@ class UrTube:
             for title, video in self.__videos.items():
                 if keyword.upper() == title.upper():
                     if self.__current_user.age < 18 and video.adult_mode:
-                        print(f'Ты слишком мал для этого видео, {self.__current_user.nickname}. Сначала отпразнуй свою'
+                        print(f'Ты слишком мал для этого видео, {self.__current_user.nickname}. Сначала отпразднуй свою'
                               f' 18ю весну')
                     else:
                         print(f'Просмотр видеоролика "{title}"')
