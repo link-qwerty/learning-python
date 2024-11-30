@@ -63,6 +63,8 @@ class House:
     def __iadd__(self, other):
         return self.__add__(other)
 
+    def
+
 # Code
 h1 = House('ЖК Эльбрус', 10)
 print(House.houses_history)
