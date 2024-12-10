@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 6, ex 3">
-      <change afterPath="$PROJECT_DIR$/module_6_hard.py" afterDir="false" />
+    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 6, ex hard">
+      <change afterPath="$PROJECT_DIR$/module_7_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +76,7 @@
     "Python.module_6_2.executor": "Run",
     "Python.module_6_3.executor": "Run",
     "Python.module_6_hard.executor": "Run",
+    "Python.module_7_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -443,7 +444,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733631846621</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Added exr from module 6, ex hard">
+      <option name="closed" value="true" />
+      <created>1733665998520</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1733665998520</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -458,7 +467,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added exr from module 1, ex 2" />
     <MESSAGE value="Added exr from module 1, ex 2 (varian)" />
     <MESSAGE value="Added exr from module 1, ex 3" />
     <MESSAGE value="Added exr from module 1, ex 4" />
@@ -483,7 +491,8 @@
     <MESSAGE value="Added exr from module 6, ex 1" />
     <MESSAGE value="Added exr from module 6, ex 2" />
     <MESSAGE value="Added exr from module 6, ex 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 6, ex 3" />
+    <MESSAGE value="Added exr from module 6, ex hard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 6, ex hard" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
