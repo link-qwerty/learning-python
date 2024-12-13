@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 7, ex 1">
-      <change afterPath="$PROJECT_DIR$/module_7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mother Goose - Monday’s Child.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rudyard Kipling - If.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walt Whitman - O Captain! My Captain!.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +82,7 @@
     "Python.module_6_hard.executor": "Run",
     "Python.module_7_1.executor": "Run",
     "Python.module_7_2.executor": "Run",
+    "Python.module_7_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
