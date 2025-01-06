@@ -48,15 +48,16 @@ class Knight(Thread):
         Метод запускает процесс боя. Рыцарь сражается до тех пор, пока не победит всех врагов
         """
 
-        warriors = 100 - self.power
+        warriors = 100
         days = 0
 
         while warriors > 0:
+            warriors -= self.power
             sleep(1)
             days += 1
             print(f'{self.name} сражается {days} дней(дня) используя {self.weapon}..., осталось '
-                  f'{warriors} ветряных мельниц.\n')
-            warriors -= self.power
+                  f'{0 if warriors < 0 else warriors} ветряных мельниц.\n')
+
 
         print(f'{self.name} одержал победу спустя {days} дней(дня)! Благостно!')
 

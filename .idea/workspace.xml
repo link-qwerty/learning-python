@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 10, ex 1">
-      <change afterPath="$PROJECT_DIR$/module_10_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 10, ex 2">
+      <change beforePath="$PROJECT_DIR$/module_10_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,14 +117,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728796335968</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Added exr from module 1, ex 4">
-      <option name="closed" value="true" />
-      <created>1728807952264</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1728807952264</updated>
     </task>
     <task id="LOCAL-00009" summary="Added exr from module 1, ex 4">
       <option name="closed" value="true" />
@@ -511,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736145966237</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Added exr from module 10, ex 2">
+      <option name="closed" value="true" />
+      <created>1736152247562</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1736152247562</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added exr from module 4, ex 1" />
     <MESSAGE value="Added exr from module 4, ex 2" />
     <MESSAGE value="Added exr from module 4, ex 2v" />
     <MESSAGE value="Added exr from module 5, ex 1" />
@@ -551,7 +549,8 @@
     <MESSAGE value="Added exr from module 9, ex 6" />
     <MESSAGE value="Added exr from module 9, ex 7" />
     <MESSAGE value="Added exr from module 10, ex 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 10, ex 1" />
+    <MESSAGE value="Added exr from module 10, ex 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 10, ex 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
