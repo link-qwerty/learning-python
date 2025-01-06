@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 10, ex 2" />
+    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 10, ex 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,14 +118,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728796335968</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Added exr from module 1, ex 4">
-      <option name="closed" value="true" />
-      <created>1728808056714</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1728808056714</updated>
     </task>
     <task id="LOCAL-00011" summary="Added exr from module 1, ex 5">
       <option name="closed" value="true" />
@@ -508,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736152566399</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Added exr from module 10, ex 2">
+      <option name="closed" value="true" />
+      <created>1736152573019</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1736152573019</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

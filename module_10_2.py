@@ -56,7 +56,7 @@ class Knight(Thread):
             sleep(1)
             days += 1
             print(f'{self.name} сражается {days} дней(дня) используя {self.weapon}..., осталось '
-                  f'{0 if warriors < 0 else warriors} ветряных мельниц.\n')
+                  f'{0 if warriors < 0 else warriors} ветряных мельниц.')
 
 
         print(f'{self.name} одержал победу спустя {days} дней(дня)! Благостно!')
@@ -80,3 +80,9 @@ third_knight = Knight('Дон Кихот', 15, 'Копье')
 first_knight.start()
 second_knight.start()
 third_knight.start()
+
+first_knight.join()
+second_knight.join()
+third_knight.join()
+
+print("Все битвы закончились!")
