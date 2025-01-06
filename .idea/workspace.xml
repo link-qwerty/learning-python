@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 9, ex 6">
-      <change afterPath="$PROJECT_DIR$/module_9_7.py" afterDir="false" />
+    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 9, ex 7">
+      <change afterPath="$PROJECT_DIR$/module_10_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.module_10_1.executor": "Run",
     "Python.module_1_3.executor": "Run",
     "Python.module_1_4.executor": "Run",
     "Python.module_1_4v.executor": "Run",
@@ -101,35 +102,6 @@
       <recent name="C:\Users\marie\PycharmProjects\homework" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="module_5_hard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="homework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_5_hard.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.module_5_hard" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -145,14 +117,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728796335968</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Added exr from module 1, ex 2 (varian)">
-      <option name="closed" value="true" />
-      <created>1728801049659</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1728801049659</updated>
     </task>
     <task id="LOCAL-00007" summary="Added exr from module 1, ex 3">
       <option name="closed" value="true" />
@@ -538,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736091485908</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Added exr from module 9, ex 7">
+      <option name="closed" value="true" />
+      <created>1736095457263</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1736095457263</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added exr from module 3, ex 5" />
     <MESSAGE value="Added exr from module 3, ex hard" />
     <MESSAGE value="Added exr from module 4, ex 1" />
     <MESSAGE value="Added exr from module 4, ex 2" />
@@ -578,7 +549,8 @@
     <MESSAGE value="Added exr from module 9, ex 4" />
     <MESSAGE value="Added exr from module 9, ex 5" />
     <MESSAGE value="Added exr from module 9, ex 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 9, ex 6" />
+    <MESSAGE value="Added exr from module 9, ex 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 9, ex 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
