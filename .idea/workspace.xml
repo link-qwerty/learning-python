@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 10, ex 2">
-      <change afterPath="$PROJECT_DIR$/module_10_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_10_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Python.module_10_1.executor": "Run",
     "Python.module_10_2.executor": "Run",
     "Python.module_10_3.executor": "Run",
+    "Python.module_10_4.executor": "Run",
     "Python.module_1_3.executor": "Run",
     "Python.module_1_4.executor": "Run",
     "Python.module_1_4v.executor": "Run",
@@ -94,13 +96,20 @@
     "Python.module_9_5.executor": "Run",
     "Python.module_9_6.executor": "Run",
     "Python.module_9_7.executor": "Run",
+    "Python.parse_xml_tag.executor": "Run",
+    "Python.stream_xml_parse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/marie/PycharmProjects/freelance",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marie\PycharmProjects\homework" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marie\PycharmProjects\homework\freelance" />
       <recent name="C:\Users\marie\PycharmProjects\homework" />
     </key>
   </component>
@@ -566,11 +575,6 @@
           <url>file://$PROJECT_DIR$/module_3_hard.py</url>
           <line>11</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_5_4.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
