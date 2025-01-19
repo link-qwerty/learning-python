@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 10, ex 2">
-      <change afterPath="$PROJECT_DIR$/module_10_4.py" afterDir="false" />
+    <list default="true" id="fa5242b4-6a40-42c5-8dde-57d1245bbfdf" name="Changes" comment="Added exr from module 10, ex 4">
+      <change afterPath="$PROJECT_DIR$/module_10_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     "Python.module_10_2.executor": "Run",
     "Python.module_10_3.executor": "Run",
     "Python.module_10_4.executor": "Run",
+    "Python.module_10_5.executor": "Run",
     "Python.module_1_3.executor": "Run",
     "Python.module_1_4.executor": "Run",
     "Python.module_1_4v.executor": "Run",
@@ -109,8 +109,8 @@
       <recent name="C:\Users\marie\PycharmProjects\homework" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\marie\PycharmProjects\homework\freelance" />
       <recent name="C:\Users\marie\PycharmProjects\homework" />
+      <recent name="C:\Users\marie\PycharmProjects\homework\freelance" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -128,14 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728796335968</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Added exr from module 1, ex 5">
-      <option name="closed" value="true" />
-      <created>1728993162492</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1728993162492</updated>
     </task>
     <task id="LOCAL-00013" summary="Added exr from module 1, ex 5">
       <option name="closed" value="true" />
@@ -521,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736152832377</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Added exr from module 10, ex 4">
+      <option name="closed" value="true" />
+      <created>1737221691809</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1737221691809</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -536,7 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added exr from module 4, ex 2" />
     <MESSAGE value="Added exr from module 4, ex 2v" />
     <MESSAGE value="Added exr from module 5, ex 1" />
     <MESSAGE value="Added exr from module 5, ex 2" />
@@ -561,7 +560,8 @@
     <MESSAGE value="Added exr from module 9, ex 7" />
     <MESSAGE value="Added exr from module 10, ex 1" />
     <MESSAGE value="Added exr from module 10, ex 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 10, ex 2" />
+    <MESSAGE value="Added exr from module 10, ex 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exr from module 10, ex 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
